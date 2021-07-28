@@ -1,6 +1,6 @@
 # Basic Banking System
 
-Banking Application System Prototype with Laravel
+Online Banking System Prototype with Laravel
 
 ## Technology
 
@@ -18,4 +18,9 @@ Banking Application System Prototype with Laravel
 
         php artisan migrate
         
-- Regist with your name
+- Import the Database 'banking.sql'
+
+
+- Start Server
+
+      php artisan serve
